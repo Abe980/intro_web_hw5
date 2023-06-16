@@ -2,7 +2,7 @@
 
 ## Оригинал
 
-<req>
+\<req>
 
         <surname>Иванов</surname>
 
@@ -24,9 +24,9 @@
 
 ## Исправленный
 
-<?xml version="1.1" encoding="UTF-8" ?>
+\<?xml version="1.1" encoding="UTF-8" ?>
 
-<req>
+\<req>
 
         <surname>Иванов</surname>
 
@@ -40,7 +40,7 @@
 
         <phone>8 926 766 48 48</phone>
 
-</req>
+\</req>
 
 
 
